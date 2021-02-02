@@ -1,0 +1,30 @@
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.Properties.Resources.resources
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\bin\Debug\IRINSS.exe
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\bin\Debug\IRINSS.pdb
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.Form1.resources
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.exe
+C:\Users\etecvav\Desktop\c#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.pdb
+H:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.exe
+H:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.pdb
+D:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.exe
+D:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.pdb
+D:\Etec\C#\IRINSS\IRINSS\bin\Debug\IRINSS.exe
+D:\Etec\C#\IRINSS\IRINSS\bin\Debug\IRINSS.pdb
+D:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.Form1.resources
+D:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.Properties.Resources.resources
+D:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.csproj.GenerateResource.Cache
+F:\Etec\C#\IRINSS\IRINSS\bin\Debug\IRINSS.exe.config
+F:\Etec\C#\IRINSS\IRINSS\bin\Debug\IRINSS.exe
+F:\Etec\C#\IRINSS\IRINSS\bin\Debug\IRINSS.pdb
+F:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.csprojResolveAssemblyReference.cache
+F:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.Form1.resources
+F:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.Properties.Resources.resources
+F:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.csproj.GenerateResource.Cache
+F:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.exe
+F:\Etec\C#\IRINSS\IRINSS\obj\x86\Debug\IRINSS.pdb
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\IRINSS\IRINSS\bin\Debug\IRINSS.exe.config
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\IRINSS\IRINSS\obj\x86\Debug\IRINSS.exe
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\IRINSS\IRINSS\obj\x86\Debug\IRINSS.pdb
